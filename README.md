@@ -93,10 +93,10 @@ Effect on results: 11 events with no fixes, 8 after masking flashes, 7 after als
 
 | Member | Part owned |
 |---|---|
-| [MAJESTY JOHN EBONG] | Data and structure |
+| [Name] | Data and structure |
 | [Name] | Data problems |
 | [Name] | Analysis |
 | [ELEGAH Joseph Ayobami] | Business answers |
-| [Name] | Integration and report |
+| [MAJESTY JOHN EBONG] | Integration and report |
 
 Each member committed their own part.
