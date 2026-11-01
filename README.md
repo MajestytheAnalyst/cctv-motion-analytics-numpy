@@ -95,7 +95,7 @@ Effect on results: 11 events with no fixes, 8 after masking flashes, 7 after als
 |---|---|
 | [Name] | Data and structure |
 | [Name] | Data problems |
-| [Name] | Analysis |
+| [OGAZI CHIKWENDU] | Analysis |
 | [ELEGAH Joseph Ayobami] | Business answers |
 | [MAJESTY JOHN EBONG] | Integration and report |
 
