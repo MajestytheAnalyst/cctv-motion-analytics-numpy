@@ -93,7 +93,7 @@ Effect on results: 11 events with no fixes, 8 after masking flashes, 7 after als
 
 | Member | Part owned |
 |---|---|
-| [Name] | Data and structure |
+| [UCHE ARIGUZO] | Data and structure |
 | [Name] | Data problems |
 | [OGAZI CHIKWENDU] | Analysis |
 | [ELEGAH Joseph Ayobami] | Business answers |
