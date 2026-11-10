@@ -94,7 +94,7 @@ Effect on results: 11 events with no fixes, 8 after masking flashes, 7 after als
 | Member | Part owned |
 |---|---|
 | [UCHE ARIGUZO] | Data and structure |
-| [Name] | Data problems |
+| [Faniran Oluwajomiloju] | Data problems |
 | [OGAZI CHIKWENDU] | Analysis |
 | [ELEGAH Joseph Ayobami] | Business answers |
 | [MAJESTY JOHN EBONG] | Integration and report |
